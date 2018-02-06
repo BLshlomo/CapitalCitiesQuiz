@@ -1,0 +1,94 @@
+<resources>
+    <!-- The name of the application -->
+    <string name="app_name">Capital Cities Quiz</string>
+
+    <!-- The first question what is the capital of Australia -->
+    <string name="australia">What is the capital city of Australia ?</string>
+    <!-- The city Melbourne -->
+    <string name="melbourne">Melbourne</string>
+    <!-- The city Sydney -->
+    <string name="sydney">Sydney</string>
+    <!-- The city Canberra -->
+    <string name="canberra">Canberra</string>
+    <!-- The city Perth -->
+    <string name="perth">Perth</string>
+
+    <!-- The second question the most visited capitals -->
+    <string name="most_visited">which capital city is the most visited capital in the world by tourists ?</string>
+    <!-- The city Paris -->
+    <string name="paris">Paris</string>
+    <!-- The city London -->
+    <string name="london">London</string>
+    <!-- The city Bangkok -->
+    <string name="bangkok">Bangkok</string>
+    <!-- The city Beijing -->
+    <string name="beijing">Beijing</string>
+    <!-- The city New York -->
+    <string name="new_york">New York</string>
+
+    <!-- The third question capital cities of Bolivia -->
+    <string name="bolivia">which cities are the capital cities of Bolivia ?</string>
+    <!-- The city La Paz -->
+    <string name="la_paz">La Paz</string>
+    <!-- The city Santa Cruz -->
+    <string name="santa_cruz">Santa Cruz</string>
+    <!-- The city Sucre -->
+    <string name="sucre">Sucre</string>
+    <!-- The city Cochabamba -->
+    <string name="cochabamba">Cochabamba</string>
+
+    <!-- The fourth question the name of Budapest -->
+    <string name="budapest">why is the capital city of Hungary called Budapest ?</string>
+    <!-- Budapest open question answer text hint -->
+    <string name="budapest_hint">Its made of two cities</string>
+
+    <!-- The fifth question the biggest land size capital -->
+    <string name="biggest_land_size">What is the biggest capital city of the world in term of land area ?</string>
+    <!-- The city Berlin -->
+    <string name="berlin">Berlin</string>
+    <!-- The city Tokyo -->
+    <string name="tokyo">Tokyo</string>
+    <!-- The city Mexico City -->
+    <string name="mexico_city">Mexico City</string>
+    <!-- The city Buenos Aires -->
+    <string name="buenos_aires">Buenos Aires</string>
+
+    <!-- The sixth question the past capital cities of Brazil -->
+    <string name="brazil">what cities were the capital cities of Brazil since the start of the colonization ?</string>
+    <!-- The city Rio -->
+    <string name="rio">Rio de Janeiro</string>
+    <!-- The city Sao Paulo -->
+    <string name="paulo">Sao Paulo</string>
+    <!-- The city Recife -->
+    <string name="recife">Recife</string>
+    <!-- The city Brasilia -->
+    <string name="brasilia">Brasilia</string>
+    <!-- The city Belo Horizonte -->
+    <string name="horizonte">Belo Horizonte</string>
+    <!-- The city Salvador -->
+    <string name="salvador">Salvador</string>
+
+    <!-- The seventh question the capital of Switzerland -->
+    <string name="switzerland">what is the capital city of Switzerland ?</string>
+    <!-- Switzerland capital open question answer text hint -->
+    <string name="switzerland_hint">De jure ... and de facto ...</string>
+
+    <!-- The eight question the unification of Berlin -->
+    <string name="germany">When was the unification of Berlin ?</string>
+    <!-- The year 1871 -->
+    <string name="year_1">1871</string>
+    <!-- The year 1991 -->
+    <string name="year_2">1991</string>
+    <!-- The year 1990 -->
+    <string name="year_3">1990</string>
+    <!-- The year 1948 -->
+    <string name="year_4">1948</string>
+
+    <!-- The ninth question China's capital -->
+    <string name="china">The capital city of China is the biggest city of the country ?</string>
+    <!-- China open question answer text hint -->
+    <string name="china_hint">Yes or no</string>
+
+    <!-- Submit quiz button -->
+    <string name="submit">Submit Quiz</string>
+</resources>

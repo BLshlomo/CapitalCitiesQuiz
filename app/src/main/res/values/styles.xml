@@ -1,0 +1,49 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#78909c</item>
+        <item name="colorPrimaryDark">#37474f</item>
+        <item name="colorAccent">#ffffff</item>
+        <item name="colorButtonNormal">#78909c</item>
+    </style>
+
+    <!-- Style for questions textview using TextAppearance large as a parent -->
+    <style name="questions" parent="TextAppearance.AppCompat.Large">
+        <!-- Set the size of the text to 20sp -->
+        <item name="android:textSize">20sp</item>
+        <!-- Set the text to be bold -->
+        <item name="android:textStyle">bold</item>
+        <!-- Set the font of the text to sans-serif-large -->
+        <item name="android:fontFamily">sans-serif-big</item>
+        <!-- Set the text gravity to center horizontal -->
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <!-- Style for answers text using TextAppearance medium as a parent -->
+    <style name="answers" parent="TextAppearance.AppCompat.Medium">
+        <!-- Set the size of the text to 16sp-->
+        <item name="android:textSize">16sp</item>
+        <!-- Set the text to be italic -->
+        <item name="android:textStyle">italic</item>
+        <!-- Set the font of the text to sans-serif-medium -->
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <!-- Set text color to white -->
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:buttonTint">@android:color/white</item>
+    </style>
+
+    <!-- Style for CheckBoxes -->
+    <style name="checkbox" parent="Theme.AppCompat.Light">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:buttonTint">@android:color/white</item>
+    </style>
+
+    <!-- Style for buttons -->
+    <style name="buttons" parent="Widget.AppCompat.Button">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="textAllCaps">true</item>
+    </style>
+
+</resources>
